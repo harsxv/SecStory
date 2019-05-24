@@ -18,10 +18,10 @@ Telah terbit sebanyak dua kali, yaitu SecStory 1 dan SecStory 2
 **Juru Kompor**             M. Prasodjo
 
 **Yang nge-Desain**         Agus Roch Cahyono
-(cahyono.agus61@gmail.com, mobile: +62 812-9917-381
+(cahyono.agus61@gmail.com, mobile: +62 812-9917-381)
 
-**Juru Tagih Tulisan**      Rony Lantp
-**Tukang Poto**             Tangtungan Project, Shinta, Pras, Ngesec, dracos dan
+**Juru Tagih Tulisan**      Rony Lantip
+**Tukang Poto**             Tangtungan Project, Shinta, Pras, Ngesec, dracOs dan
 koleksi pribadi penulis
 
 **Pengembang Web**          Ikhwan Dirga Pratama
@@ -38,17 +38,17 @@ koleksi pribadi penulis
 
 **Pengembang Web**      Ikhwan Dirga Pratama
 
-**Tim Infrastruktur**   @bimosaurus @bk201_44 @blkct @endoch @harsxv @jlcnate @Resxar
+**Tim Infrastruktur**   @bimosaurus @nizarakbarm @jerukitumanis @endoch @harsxv @jlcnate @tanpausernamee
 
 ## Donatur Tulisan SecStory 2
 
 Aan Wahyu, Eryk Budi Pratama, Deutan, Ikhwan D Pratama, Eko Juniarto, Redho Maland, Febrian, Galuh Muhammad Iman Akbar, Loader, Pataka, Priyadi, Roholesi Talaohu, Rungga, Shulkhan, Ahmad Muammar, Muhammad Yuga Nugraha, Mukhammad Khabiburrohman
 
 ## Donatur Tulisan SecStory 1
-Alexander Lumbantobing, Samsul Huda, Epakdhe, Human_Error, Anton Setiyawan, Andika Triwidada, Muhammad Shulkan Efendi, Wahyu Bimo Sukarno, M. Prasodjo, Arizona Firdonsyah, Harry Suryapambagya, Girindro Pringgo Digdo, y3dips, Dyan Galih Nugroho Wicaksi, Dedy Hariyadi, Muhammad Sahputra, Ikhwan Dirga Pratama
+Alexander Lumbantobing, Samsul Huda, Epakdhe, Human_Error, Anton Setiyawan, Andika Triwidada, Muhammad Shulkhan Efendi, Wahyu Bimo Sukarno, M. Prasodjo, Arizona Firdonsyah, Harry Suryapambagya, Girindro Pringgo Digdo, y3dips, Dyan Galih Nugroho Wicaksi, Dedy Hariyadi, Muhammad Sahputra, Ikhwan Dirga Pratama
 
 ## Personal
-@agambewe @ahmad_prayitno @barepset @BayuFedra @bernadsatriani @BlackMask21 @blowfis @da12m @emaland @fauznawnd @ibnuislamy @JokerDX11 @lantip @masbog @orangmiliter @rudie_d @ryirwansyah @r_u_l_l_y @tomble
+@agambewe @ahmad_prayitno @barepset @BayuFedra @bernadsatriani @BlackMask21 @blowfis @da12m @screetsec @fauznawnd @ibnuislamy @JokerDX11 @lantip @masbog @orangmiliter @rudie_d @ryirwansyah @r_u_l_l_y @tomble
 
 ## Komunitas
 Kelas Pagi Yogyakarta, Amikom Virus Community, Binus Hacker, Backbox Indonesia, Indonesian Code Party, zerobyte.id, dotfiles.id, IT Del, Atios, Fosti, Kelompok Studi Linux Atmajaya, Kelompok IT Pekanbaru, Zona IT Ternate,Indonesian Backtrack Team, IndoXploit, X-code, KriptografiId, linuxsec, kabarlinux, Pentester ID, Kali Linux Indonesia, Jasakom Perjuangan, Reversing.ID, Devilzc0de, EcHo,, dracOs Linux Indonesia, Gauli(dot)Net, Bash.ID, Forensika.ID, UbuntuJogja
